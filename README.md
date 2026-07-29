@@ -79,11 +79,11 @@ Com este dashboard é possível:
 
 ### Dashboard Principal
 
-> *(Inserir aqui a imagem `dashboard.png`)*
+![dashboard](screenshots/dashboard.png)
 
 ### Modelo de Dados
 
-> *(Inserir aqui a imagem `modelo_dados.png`)*
+![modelagem](screenshots/modelagem.png)
 
 ---
 
@@ -113,9 +113,17 @@ Este projeto demonstra conhecimentos em:
 ├── README.md
 ├── imagens
 │   ├── dashboard.png
-│   └── modelo_dados.png
+│   └── modelagem.png
 └── dataset
 ```
+
+---
+
+## 🚀 Como visualizar
+
+1. Faça o download do arquivo `.pbix`.
+2. Abra utilizando o **Power BI Desktop**.
+3. Navegue entre as páginas do relatório.
 
 ---
 
@@ -123,6 +131,8 @@ Este projeto demonstra conhecimentos em:
 
 **José Rafael Santos Pereira**
 
-Profissional de Tecnologia da Informação em transição para a área de **Análise de Dados**, desenvolvendo projetos práticos com foco em **Power BI**, **SQL**, **Python** e **Business Intelligence**.
+Analista de Sistemas | Power BI | SQL | Python | Flutter | Business Intelligence
 
-📌 GitHub: https://github.com/ZeRafaSp
+GitHub: https://github.com/ZeRafaSp/
+
+LinkedIn: https://www.linkedin.com/in/rafaelsantospereirarsp/
